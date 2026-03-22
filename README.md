@@ -48,4 +48,4 @@ lake build
 
 ## 📝 License
 
-This project is licensed under MIT license. Source - see the LICENSE file for details.
+This project is licensed under MIT License. Source - see the LICENSE file for details.
