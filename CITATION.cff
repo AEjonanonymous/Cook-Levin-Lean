@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "A Verified Constructive Reduction of the Cook-Levin Theorem in Lean 4 - Bridging the Gap Between Complexity Theory and Formal SAT Encodings."
+version: v2
+doi: 10.5281/zenodo.18993257
+date-released: 2026-02-28
