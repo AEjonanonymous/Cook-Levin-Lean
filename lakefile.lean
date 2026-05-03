@@ -1,7 +1,10 @@
 import Lake
 open Lake DSL
 
-package "Cook-Levin-Lean"
+package "cook-levin-lean"
 
 @[default_target]
-lean_lib "Cook-Levin-Lean"
+lean_lib «Cook-Levin-Lean4»
+
+require mathlib from git
+  "https://github.com/leanprover-community/mathlib4.git" @ "v4.26.0"
