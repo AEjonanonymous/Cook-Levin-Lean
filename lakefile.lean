@@ -1,8 +1,8 @@
 import Lake
 open Lake DSL
 
-package «cook-levin-lean» where
+package «CookLevinLean» where
 
 @[default_target]
-lean_lib «cook-levin-lean» where
+lean_lib «CookLevinLean» where
   srcDir := "."
