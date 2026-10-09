@@ -48,4 +48,18 @@ lake build
 
 ## 📝 License
 
-This project is licensed under MIT License. Source - see the LICENSE file for details.
+The Lean source code is licensed under MIT License. Source - see the LICENSE file for details.
+
+## 📚 Citation
+
+* 📝 `A Verified Constructive Reduction of the Cook-Levin Theorem in Lean 4 - Bridging the Gap Between Complexity Theory and Formal SAT Encodings.pdf`
+
+Reed, Jonathan ƒ(n). (2026). A Verified Constructive Reduction of the Cook-Levin Theorem in Lean 4 - Bridging the Gap Between Complexity Theory and Formal SAT Encodings (Version 1.0). Zenodo. 
+
+https://doi.org/10.5281/zenodo.18993257
+
+https://hexagonmath.org/2610.00152v1
+
+---
+
+© 2026 Jonathan ƒ(n) Reed
